@@ -15,17 +15,17 @@ const About = () => {
         "Most cryptocurrencies are not controlled by any central authority such as a government or financial institution.",
       items: [
         {
-          icon: <Boxes className="w-9 h-9" />,
+          icon: <Boxes className="w-9 h-9 text-gray-700" />,
           title: "Interactive reports",
           description: "Learn about your users.",
         },
         {
-          icon: <Eclipse className="w-9 h-9" />,
+          icon: <Eclipse className="w-9 h-9 text-gray-700" />,
           title: "Team dashboard",
           description: "Monitor your metrics.",
         },
         {
-          icon: <PackageOpen className="w-9 h-9" />,
+          icon: <PackageOpen className="w-9 h-9 text-gray-700" />,
           title: "Limitless segmentation",
           description: "Surface hidden trends.",
         },
@@ -42,17 +42,17 @@ const About = () => {
         "Blockchain technology is revolutionizing the way we think about data security, transparency, and financial transactions.",
       items: [
         {
-          icon: <Boxes className="w-9 h-9" />,
+          icon: <Boxes className="w-9 h-9 text-gray-700" />,
           title: "Bold and impactful",
           description: "Learn about your users.",
         },
         {
-          icon: <Eclipse className="w-9 h-9" />,
+          icon: <Eclipse className="w-9 h-9 text-gray-700" />,
           title: "Tech-savvy and professional",
           description: "Monitor your metrics.",
         },
         {
-          icon: <PackageOpen className="w-9 h-9" />,
+          icon: <PackageOpen className="w-9 h-9 text-gray-700" />,
           title: "Short and punchy",
           description: "Surface hidden trends.",
         },
@@ -69,17 +69,17 @@ const About = () => {
         "In today's digital age, protecting your privacy isn't just a personal choice—it's a crucial step toward ensuring your safety online.",
       items: [
         {
-          icon: <Boxes className="w-9 h-9" />,
+          icon: <Boxes className="w-9 h-9 text-gray-700" />,
           title: "Straightforward & professional",
           description: "Learn about your users.",
         },
         {
-          icon: <Eclipse className="w-9 h-9" />,
+          icon: <Eclipse className="w-9 h-9 text-gray-700" />,
           title: "Friendly & trust-building",
           description: "Monitor your metrics.",
         },
         {
-          icon: <PackageOpen className="w-9 h-9" />,
+          icon: <PackageOpen className="w-9 h-9 text-gray-700" />,
           title: "Bold & emphatic",
           description: "Surface hidden trends.",
         },
@@ -96,17 +96,17 @@ const About = () => {
         "Cryptocurrency exchanges are the beating heart of the digital asset market. These platforms enable users to buy, sell, and trade digital currencies efficiently.",
       items: [
         {
-          icon: <Boxes className="w-9 h-9" />,
+          icon: <Boxes className="w-9 h-9 text-gray-700" />,
           title: "Bold & direct",
           description: "Learn about your users.",
         },
         {
-          icon: <Eclipse className="w-9 h-9" />,
+          icon: <Eclipse className="w-9 h-9 text-gray-700" />,
           title: "Conversational & friendly",
           description: "Monitor your metrics.",
         },
         {
-          icon: <PackageOpen className="w-9 h-9" />,
+          icon: <PackageOpen className="w-9 h-9 text-gray-700" />,
           title: "Professional & clear",
           description: "Surface hidden trends.",
         },
